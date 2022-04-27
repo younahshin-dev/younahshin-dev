@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **younahshin-dev/younahshin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +9,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Oracle,React)](https://github.com/younahshin-dev)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&Framework=JavaScript,React,Redux,jQuery,Java,spring )](https://github.com/younahshin-dev)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database & DevOps =MySQL, Git, GitHub, Bitbucket)](https://github.com/younahshin-dev)
+
+<!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=adserver-tutorial)](https://github.com/kijepark/adserver-tutorial)  -->
