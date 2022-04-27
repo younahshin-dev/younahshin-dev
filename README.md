@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Redux,jQuery,Java,spring)](https://github.com/younahshin-dev)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,Git,GitHub,Bitbucket)](https://github.com/younahshin-dev)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,Git,GitHub,Bitbucket,Jenkins,Oracle)](https://github.com/younahshin-dev)
 
 <!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=adserver-tutorial)](https://github.com/kijepark/adserver-tutorial)  -->
