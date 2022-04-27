@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Oracle,React)](https://github.com/younahshin-dev)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework"&badges=JavaScript,React,Redux,jQuery,Java,spring)](https://github.com/younahshin-dev)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Redux,jQuery,Java,spring)](https://github.com/younahshin-dev)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,Git,GitHub,Bitbucket)](https://github.com/younahshin-dev)
 
