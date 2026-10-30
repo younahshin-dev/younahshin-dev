@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=younahshin-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younahshin-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=younahshin-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=younahshin-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -72,12 +72,4 @@
 
 ---
 
-## 🔗 Contact
 
-<div align="center">
-
-<a href="https://github.com/younahshin-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-blog-url"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-
-</div>
