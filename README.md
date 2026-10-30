@@ -2,7 +2,7 @@
 
 <!-- 타이핑 애니메이션 -->
 <a href="https://github.com/younahshin-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+younahshin;Full+Stack+Developer;React+%7C+Spring+%7C+Kubernetes;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+younahshin;Developer;React+%7C+Spring+%7C+Kubernetes;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -61,10 +61,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=younahshin-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=younahshin-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=younahshin-dev&theme=tokyonight&hide_border=true" />
 
